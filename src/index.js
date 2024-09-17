@@ -8,13 +8,13 @@ import {
   Text,
   View,
   ViewPropTypes,
-  ScrollView,
   Dimensions,
   TouchableOpacity,
   Platform,
   ActivityIndicator
 } from 'react-native'
 
+import { ScrollView } from 'react-native-gesture-handler';
 /**
  * Default styles
  * @type {StyleSheetPropType}
