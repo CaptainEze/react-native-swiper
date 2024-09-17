@@ -5,8 +5,8 @@
     "react-native",
     "ios"
   ],
-  "version": "1.6.0-rc.2",
-  "description": "Swiper component for React Native.",
+  "version": "1.0.0",
+  "description": "Swiper component for React Native. !Patched",
   "main": "index.js",
   "scripts": {
     "commit": "npx git-cz",
